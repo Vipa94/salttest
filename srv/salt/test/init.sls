@@ -1,2 +1,2 @@
-/tmp/test.txt
+/tmp/test.txt:
   file.managed
