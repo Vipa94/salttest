@@ -1,4 +1,3 @@
 base:
   '*':
-    - test
-    - apatest
+    - ssh
